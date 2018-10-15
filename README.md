@@ -13,5 +13,6 @@ Type the following code in second Terminal
 gcc fifo_R.c
 ./a.out
 ```
+<img src="https://github.com/GOVINDDIXIT/Named-Pipe-or-FIFO/blob/master/Capture.PNG" height = "900" width="1200">
 
 Enjoy💥 💥
